@@ -64,7 +64,8 @@ form input.operator{
        
         width: 35px;
         height: 40px;
-        
+        background: transparent;
+        color: #fff;
     }
 }
 
