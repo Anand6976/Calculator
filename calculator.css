@@ -59,7 +59,7 @@ form input.operator{
     color: rgb(22, 122, 150);
 } */
 
-@media(max-width:700px){
+@media(max-width:720px){
     .calculator form input{
        
         width: 35px;
